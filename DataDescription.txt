@@ -1,0 +1,6 @@
+I will use the data provided related to the car accident severity. 
+By analysing the dependancy of the severity of accidents on the
+road conditions, weather conditions and light conditions 
+on any given time, 
+the model will calculate the severity and
+alert drivers of adverse conditions. 
