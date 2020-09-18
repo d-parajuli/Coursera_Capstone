@@ -1,1 +1,3 @@
 
+Introduction:
+I would like to develop a model that predicts the severity of car collisions and crashes given the current weather, road conditions and visibility. In adverse weather conditions, there can be dangerous consequences of road accidents. This model will divide the severity score into various buckets and alert drivers of adverse conditions so they can avoid travel during the given time or take an alternative route.
