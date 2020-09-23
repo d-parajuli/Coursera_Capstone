@@ -1,15 +1,21 @@
 Data
 
-To dive deeper into this problem and come up with a potential solution with the predictive model described above, I will use the data made available in the course regarding car accident severity provided by the Seattle Police Department and recorded by Traffic Records and include Collisions at intersection or mid-block of a segment.
+To dive deeper into this problem and come up with a potential solution with the predictive model described above, 
+I will use the data made available in the course regarding car accident severity provided by the Seattle Police
+Department and recorded by Traffic Records and include Collisions at intersection or mid-block of a segment.
 
 
-The information comes from Seattle Police Department and recorded by Traffic Records and include Collisions at intersection or mid-block of a segment. The period information is from 2004 to May 2020.
-The information is organized in a CSV file with 37 attributes and originally 194673 rows, the information is labeled and unbalanced. Additionally a document with the description of each column were given.
-Due our information is labeled we know the result for each record, we have select the column SEVERITYCODE as Dependent variable. The possible values are:
+The information comes from Seattle Police Department and recorded by Traffic Records and include Collisions at 
+intersection or mid-block of a segment. The period information is from 2004 to May 2020.
+The information is organized in a CSV file with 37 attributes and originally 194673 rows, 
+the information is labeled and unbalanced. Additionally a document with the description of each column were given.
+Due our information is labeled we know the result for each record, we have select the column 
+SEVERITYCODE as Dependent variable. The possible values are:
 * 		0 — unknown
 * 		1 — prop damage
 * 		2 — injury
 * 		2b — serious injury
 * 		3 — fatality
-The information is unbalanced by the difference in samples for each accident type. In our case there are only two types of accidents from the five possible options.
-Therefore we use down sampling to have a balance dataset and start working with our information.
+The information is unbalanced by the difference in samples for each accident type.
+In this case, there are only two types of accidents from the five possible options.
+Therefore, I use down sampling to have a balance dataset and start working with our information.
