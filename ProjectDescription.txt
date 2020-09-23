@@ -1,8 +1,10 @@
-Introduction:
-I would like to develop a model that predicts the severity of car collisions
-and crashes given the current weather, road conditions and visibility. 
-In adverse weather conditions, there can be dangerous consequences
-of road accidents. 
-This model will divide the severity score into various buckets and 
-alert drivers of adverse conditions so they can avoid travel during
-the given time or take an alternative route.
+Description
+Accidents in traffic lead to significant fatalities and economic losses worldwide. For this reason, 
+it is of primary concern to city planners and governments to improve road safety for both drivers 
+and pedestrians.
+Developing a model that predicts accident severity based on various external 
+conditions such as current weather, road conditions and visibility can prove to be a valuable tool
+that provides insights into isolating the factors that are deemed most dangerous.In addition,
+this type of model can also be used to alert drivers and pedestrians to avoid travelling while 
+these factors are present or take an alternative route for their travel. 
+Avoidance of such conditions will result in significant positive benefits for the city such as reduced fatalities and less infrastructure damage. 
